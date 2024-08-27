@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 openjdk:8-alpine
 jenkins:2.60.1
+registry:2.8
