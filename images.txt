@@ -6,4 +6,12 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #jenkins:2.60.1
 #registry:2.8
-openjdk:8u292
+#openjdk:8u292
+kibana:7.12.1
+elasticsearch:7.12.1
+redis:6.2.7
+mysql:8.0.26
+minio/minio:RELEASE.2022-09-07T22-25-02Z
+rabbitmq:3.8.34   
+xuxueli/xxl-job-admin:2.3.1
+nacos/nacos-server:1.4.1
