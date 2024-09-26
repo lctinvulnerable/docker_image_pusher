@@ -17,5 +17,5 @@ rabbitmq:3.8.34
 xuxueli/xxl-job-admin:2.3.1
 nacos/nacos-server:1.4.1
 #-----------------------------------------
-bitnami/etcd:3.5.15 --platform=linux/arm64
-evildecay/etcdkeeper:v0.7.6 --platform=linux/arm64
+bitnami/etcd:3.5.15
+evildecay/etcdkeeper:v0.7.6
