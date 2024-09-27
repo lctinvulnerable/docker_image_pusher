@@ -19,3 +19,5 @@ nacos/nacos-server:1.4.1
 #-----------------------------------------
 bitnami/etcd:3.5.15
 evildecay/etcdkeeper:v0.7.6
+#-----------------------------------------
+zookeeper:3.8.4
